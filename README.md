@@ -1,7 +1,6 @@
-### Hi there 👋
+![banner(1)](https://github.com/thy-nguyen29/thy-nguyen29/assets/36910837/287650db-36ba-4e71-980f-62af40ffacb4)
 
-Hello World!
-
+### Hello! Welcome to my profile 👋
 
 <!--
 **thy-nguyen29/thy-nguyen29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
